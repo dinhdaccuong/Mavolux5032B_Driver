@@ -1,0 +1,2 @@
+Cài driver mavolux 5032B:
+Disable digital driver signature eforcement
